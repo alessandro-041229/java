@@ -1,6 +1,6 @@
 # java
 
-this section contains the finished projects of alessandro salvadori regarding java, java-- and object-oriented programming
+this section contains the finished project of alessandro salvadori regarding java.
 
 # requisites
 
