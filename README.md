@@ -1,6 +1,12 @@
 # java
 
 this section contains the finished project of alessandro salvadori regarding java.
+in the specifics this file will contain 3 simple sample excercise for java
+
+one who controls if a number is a prime number  or not
+one who calculates the avarage height on a list of atlets heights 
+and tells you how many are smaller than 1,70 cm
+and lastly one who calculates the percentual of positive and negative numbers on a list of numbers given
 
 # requisites
 
