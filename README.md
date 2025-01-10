@@ -16,8 +16,7 @@ remember to download the community edition wich is the free one.
 * in addiciton it will be necessary the version of java 9 by downloading the required [JDK](https://www.oracle.com/java/technologies/javase/javase9-archive-downloads.html) 
 
 
-* after the JDK installation is completed it will be necessary ton select it by opening the intellij app and follow the video tutorial 
-showed here https://www.jetbrains.com/guide/java/tips/download-jdk/
+* after the JDK installation is completed it will be necessary ton select it by opening the intellij app and follow the video [tutorial](https://www.jetbrains.com/guide/java/tips/download-jdk/)
 
 # how to run
 
