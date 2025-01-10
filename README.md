@@ -9,13 +9,12 @@ in the specifics this file will contain 3 simple sample excercise for java
 
 # requisites
 
-* for run the seguent set of programms is necessary to have downloaded any application who can run java programs
-one example and suggested one is intellijIDEA wich can be 
-downloaded here https://www.jetbrains.com/idea/download/?section=windows
+* suggest [INTELLLIJ](https://www.jetbrains.com/idea/download/?section=windows) 
 remember to download the community edition wich is the free one.
 
-* in addiciton it will be necessary the version of java 9 by downloading the required JDK 
-from here https://www.oracle.com/java/technologies/javase/javase9-archive-downloads.html
+
+* in addiciton it will be necessary the version of java 9 by downloading the required [JDK](https://www.oracle.com/java/technologies/javase/javase9-archive-downloads.html) 
+
 
 * after the JDK installation is completed it will be necessary ton select it by opening the intellij app and follow the video tutorial 
 showed here https://www.jetbrains.com/guide/java/tips/download-jdk/
