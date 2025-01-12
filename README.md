@@ -22,3 +22,4 @@ remember to download the community edition wich is the free one.
 
 as for the running, after all is setted up one will just have to select the needed JDK for run the programm and then he will be
 able to freely run it whitout any problem.
+![INTELLIJ](https://windows-cdn.softpedia.com/screenshots/IntelliJ-IDEA-Community-Edition_1.png)
